@@ -17,3 +17,7 @@ A jQuery plugin that provides the UX of the [cacheable_flash](http://github.com/
 Licensed under the MIT License.
 
 * Copyright (c) 2012 [Peter H. Boling](http://peterboling.com). See LICENSE for further details.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pboling/jquery.cacheableflash/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
